@@ -56,7 +56,6 @@
 			}
 		});
 	</script>
-	// git test
 </head>
 <body>
 	<div id="kakao-logged-group"></div>
